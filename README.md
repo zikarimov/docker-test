@@ -1,6 +1,5 @@
 # Docker test Projects
 
-![...](https://github.com/zikarimov/docker-test/blob/master/docker-test.png)
 
 В этом репозитории находится код из статьи [__Docker Handbook__](https://www.freecodecamp.org/news/the-docker-handbook/) на [__freeCodecamp__](https://freecodecamp.org). 
 В статье читатели работают над шестью проектами с возрастающей сложностью. Вот эти проекты:
