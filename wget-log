@@ -1,0 +1,11 @@
+--2024-08-28 03:58:26--  https://yandex.ru/images/search?img_url=https%3A%2F%2Fw.wallhaven.cc%2Ffull%2Fr7%2Fwallhaven-r7jolj.png
+Resolving yandex.ru (yandex.ru)... 77.88.44.55, 5.255.255.77, 77.88.55.88, ...
+Connecting to yandex.ru (yandex.ru)|77.88.44.55|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: unspecified [text/html]
+Saving to: ‘search?img_url=https:%2F%2Fw.wallhaven.cc%2Ffull%2Fr7%2Fwallhaven-r7jolj.png’
+
+              search?img_url     [<=>                                          ]       0  --.-KB/s                            search?img_url=     [ <=>                                         ]  68.74K   342KB/s               search?img_url=https:%2F%2Fw     [  <=>                                        ] 293.54K   843KB/s    in 0.3s    
+
+2024-08-28 03:58:26 (843 KB/s) - ‘search?img_url=https:%2F%2Fw.wallhaven.cc%2Ffull%2Fr7%2Fwallhaven-r7jolj.png’ saved [300589]
+
